@@ -1,3 +1,3 @@
 # Machine-Learning-UW
 
-### Course on Machine Learning using [Graphlab](https://turi.com/)
+### University of Washington - Course on Machine Learning using [Graphlab](https://turi.com/)
